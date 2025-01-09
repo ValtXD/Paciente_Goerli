@@ -1,21 +1,30 @@
-Projeto Forms do Paciente
+Para ALGUEM:
 
-Modificações: 
+Objetivos:
 
+Aplicação Blockchain no Projeto
 
-Teste:
+Script -> Smart Contract Simples
 
-Caso queira testar na sua maquina, antes faça...
+Transição básica de transferencia
 
-npm install
+Dados em Tokens -> Tokenizados
 
-npm install react-select
+*Missão*
 
-npm install react-router-dom
+Verificar a Parte de Endereços para retirar e enviar tal dado (pois há um custo)
 
-npm install react-icons
+Verificar tal coisa com o professor (com os endereços dele) OU Fazemos por nois mesmo
 
-npm install express sqlite3 cors
+Verificar se essa aplicação no código de alguma forma está correta, na sua visão (ou do CHATGPT se preferir)
 
-npm install express sqlite3 sequelize body-parser(caso esteja dando erro no banco)
+Fazendo ainda conexão do front e hardhar ao contrato (contracts -> TokenContracts.sol) 
+
+Esses q nessecitam desse endereço estão presentes em:
+
+hardhat.config.js (Linha 9 e 10)
+
+.env (linha 1 e 2)
+
+Adicionar.js (linha 8 ao 19), especificamente linha 11 e 17
 
